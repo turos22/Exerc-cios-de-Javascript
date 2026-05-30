@@ -7,7 +7,7 @@ Um repositório dedicado ao estudo e prática de JavaScript fundamentais. O obje
 ## 📸 Demonstração
 
 Para entender visualmente como a página principal de exercícios foi estruturada, você pode conferir o arquivo com os prints da tela:
-<img src="screenshots/pagina.png" width="400" title="Tela Principal">
+<img src="screenshots/pagina.png" width="800" title="Tela Principal">
 
 ---
 
