@@ -39,7 +39,7 @@ Durante o desenvolvimento destes exercícios, foquei em aplicar:
 Se quiser testar os códigos localmente:
 
 1. Clone o repositório na sua máquina:
-   git clone https://github.com/turos22/Exerc-cios-de-Javascript.git
+   git clone https://github.com/turos22/Exercicios-de-Javascript.git
 
 2. Acesse a pasta do projeto.
 3. Abra o arquivo `index.html` em qualquer navegador para interagir com a página de exercícios.
